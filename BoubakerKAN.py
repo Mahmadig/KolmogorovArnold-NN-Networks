@@ -1,3 +1,5 @@
+#Boubaker Implementation and ChebyKAN Implementation
+
 import torch
 import torch.nn as nn
 from sklearn.preprocessing import StandardScaler
