@@ -115,6 +115,7 @@ if __name__ == "__main__":
     print("the RMSE is : ", np.sqrt(mean_squared_error(prd,tst )))
 
 i=128
+###### Replacing BoubakerKANModel with ChebyKAN for MNIST data
 class MNISTChebyKAN(nn.Module):
     def __init__(self):
         super(MNISTChebyKAN, self).__init__()
