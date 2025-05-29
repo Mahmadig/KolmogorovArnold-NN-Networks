@@ -1,3 +1,5 @@
+****If you are visiting here, please do not forget to support and give a star****
+
 This is the Kolmogorov-Arnold Neural Networks, but instead of spline polynomials, this model uses Boubaker polynomials. 
 If it is useful for you please give a star
 Refrences: 
